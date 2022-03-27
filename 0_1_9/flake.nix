@@ -11,6 +11,7 @@
   inputs.src-htsparse-0_1_9.ref   = "refs/tags/0.1.9";
   inputs.src-htsparse-0_1_9.owner = "haxscramper";
   inputs.src-htsparse-0_1_9.repo  = "htsparse";
+  inputs.src-htsparse-0_1_9.dir   = "";
   inputs.src-htsparse-0_1_9.type  = "github";
   
   inputs."hmisc".owner = "nim-nix-pkgs";
